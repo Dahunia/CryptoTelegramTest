@@ -1,0 +1,87 @@
+INFO | 02.09.2019 0:00:00 | 
+update_id: 10000
+	message_id: 1365
+	chat id: 1111111, first_name: Test, last_name: Test Lastname, type: 
+	from id: 1111111, is_bot: False, first_name: Test, last_name: Test Lastname, username: Test, language_code: 
+	date: 1441645532
+	text: BNBBTC
+
+INFO | 02.09.2019 0:00:00 | 
+update_id: 10000
+	message_id: 1365
+	chat id: 1111111, first_name: Test, last_name: Test Lastname, type: 
+	from id: 1111111, is_bot: False, first_name: Test, last_name: Test Lastname, username: Test, language_code: 
+	date: 1441645532
+	text: BNBBTC
+
+INFO | 02.09.2019 0:00:00 | Binance. Пара: BNBBTC
+Изменение цены за последние 24 часа -0.00003550
+Последняя цена: 0.00219220
+Цена продажи: 0.00219260
+Цена покупки: 0.00219250
+Самая высокая цена: 0.00225550
+Самая низкая цена:0.00219000
+Объём: 912202.61000000
+Количество: 40128
+INFO | 02.09.2019 0:00:00 | 
+update_id: 10000
+	message_id: 1365
+	chat id: 1111111, first_name: Test, last_name: Test Lastname, type: 
+	from id: 1111111, is_bot: False, first_name: Test, last_name: Test Lastname, username: Test, language_code: 
+	date: 1441645532
+	text: BNBBTC
+INFO | 02.09.2019 12:59:25 | 
+Binance. Пара: BNBBTC
+	Изменение цены за последние 24 часа -0.00003150
+	Последняя цена: 0.00219550
+	Цена продажи: 0.00219630
+	Цена покупки: 0.00219550
+	Самая высокая цена: 0.00225550
+	Самая низкая цена:0.00219000
+	Объём: 911575.96000000
+	Количество: 40164
+INFO | 02.09.2019 12:59:25 | 
+update_id: 10000
+	message_id: 1365
+	chat id: 1111111, first_name: Test, last_name: Test Lastname, type: 
+	from id: 1111111, is_bot: False, first_name: Test, last_name: Test Lastname, username: Test, language_code: 
+	date: 1441645532
+	text: BNBBTC
+
+INFO | 02.09.2019 12:59:52 | 
+Binance. Пара: BNBBTC
+	Изменение цены за последние 24 часа -0.00003160
+	Последняя цена: 0.00219570
+	Цена продажи: 0.00219600
+	Цена покупки: 0.00219560
+	Самая высокая цена: 0.00225550
+	Самая низкая цена:0.00219000
+	Объём: 911241.04000000
+	Количество: 40160
+
+INFO | 02.09.2019 12:59:52 | 
+update_id: 10000
+	message_id: 1365
+	chat id: 1111111, first_name: Test, last_name: Test Lastname, type: 
+	from id: 1111111, is_bot: False, first_name: Test, last_name: Test Lastname, username: Test, language_code: 
+	date: 1441645532
+	text: BNBBTC
+
+INFO | 02.09.2019 08:07:11 | 
+Binance. Пара: BNBBTC
+	Изменение цены за последние 24 часа -0.00005450
+	Последняя цена: 0.00217890
+	Цена продажи: 0.00217890
+	Цена покупки: 0.00217880
+	Самая высокая цена: 0.00223440
+	Самая низкая цена:0.00215550
+	Объём: 946039.30000000
+	Количество: 43873
+
+INFO | 02.09.2019 08:07:11 | 
+update_id: 10000
+	message_id: 1365
+	chat id: 1111111, first_name: Test, last_name: Test Lastname, type: 
+	from id: 1111111, is_bot: False, first_name: Test, last_name: Test Lastname, username: Test, language_code: 
+	date: 1441645532
+	text: BNBBTC

@@ -1,0 +1,28 @@
+{
+  "ok": true,
+  "result": [
+    {
+      "update_id": 95255814,
+      "message": {
+        "message_id": 8,
+        "from": {
+          "id": 290563423,
+          "is_bot": false,
+          "first_name": "Darya",
+          "last_name": "Yakimova",
+          "username": "jadarya",
+          "language_code": "ru"
+        },
+        "chat": {
+          "id": 290563423,
+          "first_name": "Darya",
+          "last_name": "Yakimova",
+          "username": "jadarya",
+          "type": "private"
+        },
+        "date": 1567000953,
+        "text": "Hellow"
+      }
+    }
+  ]
+}
