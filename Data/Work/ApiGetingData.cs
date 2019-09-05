@@ -33,7 +33,7 @@ namespace CryptoTelegram.Data.Work
         public async Task<byte[]> SendDataAsync(
             T entity,
             string url,
-            string proxy) 
+            string proxy = null) 
         {
             WebClient web = new WebClient();
             web.Proxy = new WebProxy(proxy);

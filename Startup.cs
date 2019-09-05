@@ -4,6 +4,7 @@ using System.Linq;
 using System.Threading.Tasks;
 using CryptoTelegram.Data.Interface;
 using CryptoTelegram.Data.Work;
+using CryptoTelegram.Data.Work.Interface;
 using CryptoTelegram.Models.Settings;
 using Microsoft.AspNetCore.Builder;
 using Microsoft.AspNetCore.Hosting;
@@ -36,6 +37,10 @@ namespace CryptoTelegram
 
 
             services.AddMvc().SetCompatibilityVersion(CompatibilityVersion.Version_2_2);
+
+            // Setting Telegram
+            services.AddTransient<ITelegramApiRequest, TelegramApiRequest>();
+            services.Configure<TelegramSettings>(Configuration.GetSection("TelegramSettings"));
 
             services.Configure<AppSettings>(Configuration.GetSection("AppSettings"));
             services.AddSingleton<IReceiver, FileReceiver>();

@@ -1,120 +1,31 @@
-2019-09-01 20:53:49.1939 Info Message Template Auto Format enabled
-2019-09-01 20:53:49.2007 Info Loading assembly: NLog.Web.AspNetCore
-2019-09-01 20:53:49.2531 Info Adding target FileTarget(Name=allfile)
-2019-09-01 20:53:49.2531 Info Adding target FileTarget(Name=BotApiFile)
-2019-09-01 20:53:49.2531 Info Adding target FileTarget(Name=ownFile-web)
-2019-09-01 20:53:49.2531 Info Adding target ConsoleTarget(Name=logConsole)
-2019-09-01 20:53:49.2752 Warn Unused target detected. Add a rule for this target to the configuration. TargetName: ownFile-web
-2019-09-01 20:53:49.2922 Info Found 73 configuration items
-2019-09-01 20:53:49.3052 Info Configuration initialized.
-2019-09-01 20:53:49.3052 Info NLog, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.6.7.10445. Product version: 4.6.7.
-2019-09-01 20:54:00.6035 Info AppDomain Shutting down. Logger closing...
-2019-09-01 20:54:00.6163 Info Logger has been shut down.
-2019-09-01 21:12:14.7469 Info Message Template Auto Format enabled
-2019-09-01 21:12:14.7550 Info Loading assembly: NLog.Web.AspNetCore
-2019-09-01 21:12:14.8066 Info Adding target FileTarget(Name=allfile)
-2019-09-01 21:12:14.8066 Info Adding target FileTarget(Name=BotApiFile)
-2019-09-01 21:12:14.8092 Info Adding target FileTarget(Name=ownFile-web)
-2019-09-01 21:12:14.8092 Info Adding target ConsoleTarget(Name=logConsole)
-2019-09-01 21:12:14.8355 Warn Unused target detected. Add a rule for this target to the configuration. TargetName: ownFile-web
-2019-09-01 21:12:14.8528 Info Found 73 configuration items
-2019-09-01 21:12:14.8647 Info Configuration initialized.
-2019-09-01 21:12:14.8647 Info NLog, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.6.7.10445. Product version: 4.6.7.
-2019-09-01 21:12:53.2248 Info AppDomain Shutting down. Logger closing...
-2019-09-01 21:12:53.2388 Info Logger has been shut down.
-2019-09-01 21:14:19.8359 Info Message Template Auto Format enabled
-2019-09-01 21:14:19.8421 Info Loading assembly: NLog.Web.AspNetCore
-2019-09-01 21:14:19.8926 Info Adding target FileTarget(Name=allfile)
-2019-09-01 21:14:19.8926 Info Adding target FileTarget(Name=BotApiFile)
-2019-09-01 21:14:19.8926 Info Adding target FileTarget(Name=ownFile-web)
-2019-09-01 21:14:19.8926 Info Adding target ConsoleTarget(Name=logConsole)
-2019-09-01 21:14:19.9154 Warn Unused target detected. Add a rule for this target to the configuration. TargetName: ownFile-web
-2019-09-01 21:14:19.9313 Info Found 73 configuration items
-2019-09-01 21:14:19.9432 Info Configuration initialized.
-2019-09-01 21:14:19.9432 Info NLog, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.6.7.10445. Product version: 4.6.7.
-2019-09-01 21:15:58.4376 Info AppDomain Shutting down. Logger closing...
-2019-09-01 21:15:58.4531 Info Logger has been shut down.
-2019-09-01 21:48:57.6911 Info Message Template Auto Format enabled
-2019-09-01 21:48:57.6911 Info Loading assembly: NLog.Web.AspNetCore
-2019-09-01 21:48:57.7484 Info Adding target FileTarget(Name=allfile)
-2019-09-01 21:48:57.7484 Info Adding target FileTarget(Name=BotApiFile)
-2019-09-01 21:48:57.7484 Info Adding target FileTarget(Name=ownFile-web)
-2019-09-01 21:48:57.7484 Info Adding target ConsoleTarget(Name=logConsole)
-2019-09-01 21:48:57.7696 Warn Unused target detected. Add a rule for this target to the configuration. TargetName: ownFile-web
-2019-09-01 21:48:57.7851 Info Found 73 configuration items
-2019-09-01 21:48:57.7968 Info Configuration initialized.
-2019-09-01 21:48:57.7968 Info NLog, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.6.7.10445. Product version: 4.6.7.
-2019-09-01 21:49:33.9663 Info AppDomain Shutting down. Logger closing...
-2019-09-01 21:49:33.9869 Info Logger has been shut down.
-2019-09-01 21:50:18.0331 Info Message Template Auto Format enabled
-2019-09-01 21:50:18.0331 Info Loading assembly: NLog.Web.AspNetCore
-2019-09-01 21:50:18.0919 Info Adding target FileTarget(Name=allfile)
-2019-09-01 21:50:18.0919 Info Adding target FileTarget(Name=BotApiFile)
-2019-09-01 21:50:18.0919 Info Adding target FileTarget(Name=ownFile-web)
-2019-09-01 21:50:18.0919 Info Adding target ConsoleTarget(Name=logConsole)
-2019-09-01 21:50:18.1139 Warn Unused target detected. Add a rule for this target to the configuration. TargetName: ownFile-web
-2019-09-01 21:50:18.1301 Info Found 73 configuration items
-2019-09-01 21:50:18.1424 Info Configuration initialized.
-2019-09-01 21:50:18.1424 Info NLog, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.6.7.10445. Product version: 4.6.7.
-2019-09-01 21:50:19.2307 Info AppDomain Shutting down. Logger closing...
-2019-09-01 21:50:19.2307 Info Logger has been shut down.
-2019-09-01 21:50:51.6084 Info Message Template Auto Format enabled
-2019-09-01 21:50:51.6084 Info Loading assembly: NLog.Web.AspNetCore
-2019-09-01 21:50:51.6728 Info Adding target FileTarget(Name=allfile)
-2019-09-01 21:50:51.6728 Info Adding target FileTarget(Name=BotApiFile)
-2019-09-01 21:50:51.6728 Info Adding target FileTarget(Name=ownFile-web)
-2019-09-01 21:50:51.6728 Info Adding target ConsoleTarget(Name=logConsole)
-2019-09-01 21:50:51.6959 Warn Unused target detected. Add a rule for this target to the configuration. TargetName: ownFile-web
-2019-09-01 21:50:51.7130 Info Found 73 configuration items
-2019-09-01 21:50:51.7283 Info Configuration initialized.
-2019-09-01 21:50:51.7333 Info NLog, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.6.7.10445. Product version: 4.6.7.
-2019-09-01 21:51:21.1796 Info AppDomain Shutting down. Logger closing...
-2019-09-01 21:51:21.1930 Info Logger has been shut down.
-2019-09-01 21:51:50.5607 Info Message Template Auto Format enabled
-2019-09-01 21:51:50.5607 Info Loading assembly: NLog.Web.AspNetCore
-2019-09-01 21:51:50.6190 Info Adding target FileTarget(Name=allfile)
-2019-09-01 21:51:50.6190 Info Adding target FileTarget(Name=BotApiFile)
-2019-09-01 21:51:50.6219 Info Adding target FileTarget(Name=ownFile-web)
-2019-09-01 21:51:50.6219 Info Adding target ConsoleTarget(Name=logConsole)
-2019-09-01 21:51:50.6412 Warn Unused target detected. Add a rule for this target to the configuration. TargetName: ownFile-web
-2019-09-01 21:51:50.6575 Info Found 73 configuration items
-2019-09-01 21:51:50.6698 Info Configuration initialized.
-2019-09-01 21:51:50.6698 Info NLog, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.6.7.10445. Product version: 4.6.7.
-2019-09-01 21:52:45.0359 Info AppDomain Shutting down. Logger closing...
-2019-09-01 21:52:45.0503 Info Logger has been shut down.
-2019-09-01 22:03:48.1501 Info Message Template Auto Format enabled
-2019-09-01 22:03:48.1562 Info Loading assembly: NLog.Web.AspNetCore
-2019-09-01 22:03:48.2220 Info Adding target FileTarget(Name=allfile)
-2019-09-01 22:03:48.2220 Info Adding target FileTarget(Name=BotApiFile)
-2019-09-01 22:03:48.2220 Info Adding target FileTarget(Name=ownFile-web)
-2019-09-01 22:03:48.2220 Info Adding target ConsoleTarget(Name=logConsole)
-2019-09-01 22:03:48.2439 Warn Unused target detected. Add a rule for this target to the configuration. TargetName: ownFile-web
-2019-09-01 22:03:48.2599 Info Found 73 configuration items
-2019-09-01 22:03:48.2722 Info Configuration initialized.
-2019-09-01 22:03:48.2722 Info NLog, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.6.7.10445. Product version: 4.6.7.
-2019-09-01 22:06:23.8607 Info AppDomain Shutting down. Logger closing...
-2019-09-01 22:06:23.8757 Info Logger has been shut down.
-2019-09-01 22:06:41.8114 Info Message Template Auto Format enabled
-2019-09-01 22:06:41.8114 Info Loading assembly: NLog.Web.AspNetCore
-2019-09-01 22:06:41.8727 Info Adding target FileTarget(Name=allfile)
-2019-09-01 22:06:41.8727 Info Adding target FileTarget(Name=BotApiFile)
-2019-09-01 22:06:41.8727 Info Adding target FileTarget(Name=ownFile-web)
-2019-09-01 22:06:41.8727 Info Adding target ConsoleTarget(Name=logConsole)
-2019-09-01 22:06:41.8952 Warn Unused target detected. Add a rule for this target to the configuration. TargetName: ownFile-web
-2019-09-01 22:06:41.9128 Info Found 73 configuration items
-2019-09-01 22:06:41.9269 Info Configuration initialized.
-2019-09-01 22:06:41.9269 Info NLog, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.6.7.10445. Product version: 4.6.7.
-2019-09-01 22:07:03.0335 Info AppDomain Shutting down. Logger closing...
-2019-09-01 22:07:03.0484 Info Logger has been shut down.
-2019-09-01 22:07:16.9603 Info Message Template Auto Format enabled
-2019-09-01 22:07:16.9685 Info Loading assembly: NLog.Web.AspNetCore
-2019-09-01 22:07:17.0193 Info Adding target FileTarget(Name=allfile)
-2019-09-01 22:07:17.0193 Info Adding target FileTarget(Name=BotApiFile)
-2019-09-01 22:07:17.0193 Info Adding target FileTarget(Name=ownFile-web)
-2019-09-01 22:07:17.0193 Info Adding target ConsoleTarget(Name=logConsole)
-2019-09-01 22:07:17.0416 Warn Unused target detected. Add a rule for this target to the configuration. TargetName: ownFile-web
-2019-09-01 22:07:17.0575 Info Found 73 configuration items
-2019-09-01 22:07:17.0696 Info Configuration initialized.
-2019-09-01 22:07:17.0696 Info NLog, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.6.7.10445. Product version: 4.6.7.
-2019-09-01 22:19:59.1686 Info AppDomain Shutting down. Logger closing...
-2019-09-01 22:19:59.1850 Info Logger has been shut down.
+2019-09-05 21:05:43.9525 Info Message Template Auto Format enabled
+2019-09-05 21:05:43.9525 Info Loading assembly: NLog.Web.AspNetCore
+2019-09-05 21:05:43.9525 Info Adding target FileTarget(Name=allfile)
+2019-09-05 21:05:43.9525 Info Adding target FileTarget(Name=BotApiFile)
+2019-09-05 21:05:43.9525 Info Adding target FileTarget(Name=ownFile-web)
+2019-09-05 21:05:43.9525 Info Adding target ConsoleTarget(Name=logConsole)
+2019-09-05 21:05:43.9525 Warn Unused target detected. Add a rule for this target to the configuration. TargetName: ownFile-web
+2019-09-05 21:05:43.9525 Info Closing old configuration.
+2019-09-05 21:05:43.9824 Info Found 73 configuration items
+2019-09-05 21:06:22.3572 Info AppDomain Shutting down. Logger closing...
+2019-09-05 21:06:22.3572 Info Logger has been shut down.
+2019-09-05 21:06:59.0329 Info Message Template Auto Format enabled
+2019-09-05 21:06:59.0473 Info Loading assembly: NLog.Web.AspNetCore
+2019-09-05 21:06:59.1092 Info Adding target FileTarget(Name=allfile)
+2019-09-05 21:06:59.1092 Info Adding target FileTarget(Name=BotApiFile)
+2019-09-05 21:06:59.1092 Info Adding target FileTarget(Name=ownFile-web)
+2019-09-05 21:06:59.1092 Info Adding target ConsoleTarget(Name=logConsole)
+2019-09-05 21:06:59.1323 Warn Unused target detected. Add a rule for this target to the configuration. TargetName: ownFile-web
+2019-09-05 21:06:59.1485 Info Found 73 configuration items
+2019-09-05 21:06:59.1607 Info Configuration initialized.
+2019-09-05 21:06:59.1607 Info NLog, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.6.7.10445. Product version: 4.6.7.
+2019-09-05 21:09:20.9457 Info Message Template Auto Format enabled
+2019-09-05 21:09:20.9563 Info Loading assembly: NLog.Web.AspNetCore
+2019-09-05 21:09:21.0193 Info Adding target FileTarget(Name=allfile)
+2019-09-05 21:09:21.0193 Info Adding target FileTarget(Name=BotApiFile)
+2019-09-05 21:09:21.0193 Info Adding target FileTarget(Name=ownFile-web)
+2019-09-05 21:09:21.0193 Info Adding target ConsoleTarget(Name=logConsole)
+2019-09-05 21:09:21.0429 Warn Unused target detected. Add a rule for this target to the configuration. TargetName: ownFile-web
+2019-09-05 21:09:21.0595 Info Found 73 configuration items
+2019-09-05 21:09:21.0750 Info Configuration initialized.
+2019-09-05 21:09:21.0750 Info NLog, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.6.7.10445. Product version: 4.6.7.
