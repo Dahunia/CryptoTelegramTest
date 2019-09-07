@@ -77,8 +77,10 @@ namespace CryptoTelegram.Data.Work
 
             return await sendRequest.SendDataAsync(
                 entity,
-                url//, 
-            //    _telegramConfig.Proxies.First()
+                url, 
+                _telegramConfig.WithProxy ? 
+                    _telegramConfig.Proxies.FirstOrDefault() :
+                    null
             );
         }
     }

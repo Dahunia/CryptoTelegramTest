@@ -1,0 +1,148 @@
+﻿
+INFO | 07.09.2019 01:56:50 | 
+update_id: 10000
+	message_id: 1365
+	chat id: 290563423, first_name: Darya, last_name: Yakimova, type: private
+	from id: 290563423, is_bot: False, first_name: Darya, last_name: Yakimova, username: jadarya, language_code: 
+	date: 1441645532
+	text: BNBBTC
+
+INFO | 07.09.2019 01:57:26 | 
+update_id: 10000
+	message_id: 1365
+	chat id: 290563423, first_name: Darya, last_name: Yakimova, type: private
+	from id: 290563423, is_bot: False, first_name: Darya, last_name: Yakimova, username: jadarya, language_code: 
+	date: 1441645532
+	text: LTCBTC
+
+INFO | 07.09.2019 02:06:18 | 
+update_id: 10000
+	message_id: 1365
+	chat id: 290563423, first_name: Darya, last_name: Yakimova, type: private
+	from id: 290563423, is_bot: False, first_name: Darya, last_name: Yakimova, username: jadarya, language_code: 
+	date: 1441645532
+	text: LTCBTC
+
+INFO | 07.09.2019 02:06:57 | 
+update_id: 10000
+	message_id: 1365
+	chat id: 290563423, first_name: Darya, last_name: Yakimova, type: private
+	from id: 290563423, is_bot: False, first_name: Darya, last_name: Yakimova, username: jadarya, language_code: 
+	date: 1441645532
+	text: LTCBTC
+
+INFO | 07.09.2019 02:07:35 | 
+update_id: 10000
+	message_id: 1365
+	chat id: 290563423, first_name: Darya, last_name: Yakimova, type: private
+	from id: 290563423, is_bot: False, first_name: Darya, last_name: Yakimova, username: jadarya, language_code: 
+	date: 1441645532
+	text: LTCBTC
+
+INFO | 07.09.2019 02:09:43 | 
+update_id: 10000
+	message_id: 1365
+	chat id: 290563423, first_name: Darya, last_name: Yakimova, type: private
+	from id: 290563423, is_bot: False, first_name: Darya, last_name: Yakimova, username: jadarya, language_code: 
+	date: 1441645532
+	text: LTCBTC
+
+INFO | 07.09.2019 02:12:19 | 
+update_id: 10000
+	message_id: 1365
+	chat id: 290563423, first_name: Darya, last_name: Yakimova, type: private
+	from id: 290563423, is_bot: False, first_name: Darya, last_name: Yakimova, username: jadarya, language_code: 
+	date: 1441645532
+	text: LTCBTC
+
+INFO | 07.09.2019 02:12:22 | 
+update_id: 10000
+	message_id: 1365
+	chat id: 290563423, first_name: Darya, last_name: Yakimova, type: private
+	from id: 290563423, is_bot: False, first_name: Darya, last_name: Yakimova, username: jadarya, language_code: 
+	date: 1441645532
+	text: LTCBTC
+
+INFO | 07.09.2019 02:12:26 | 
+update_id: 10000
+	message_id: 1365
+	chat id: 290563423, first_name: Darya, last_name: Yakimova, type: private
+	from id: 290563423, is_bot: False, first_name: Darya, last_name: Yakimova, username: jadarya, language_code: 
+	date: 1441645532
+	text: LTCBTC
+
+INFO | 07.09.2019 02:12:47 | 
+update_id: 10000
+	message_id: 1365
+	chat id: 290563423, first_name: Darya, last_name: Yakimova, type: private
+	from id: 290563423, is_bot: False, first_name: Darya, last_name: Yakimova, username: jadarya, language_code: 
+	date: 1441645532
+	text: LTCBTC
+
+INFO | 07.09.2019 02:13:20 | 
+update_id: 10000
+	message_id: 1365
+	chat id: 290563423, first_name: Darya, last_name: Yakimova, type: private
+	from id: 290563423, is_bot: False, first_name: Darya, last_name: Yakimova, username: jadarya, language_code: 
+	date: 1441645532
+	text: LTCBTC
+
+INFO | 07.09.2019 02:15:26 | 
+update_id: 10000
+	message_id: 1365
+	chat id: 290563423, first_name: Darya, last_name: Yakimova, type: private
+	from id: 290563423, is_bot: False, first_name: Darya, last_name: Yakimova, username: jadarya, language_code: 
+	date: 1441645532
+	text: LTCBTC
+
+INFO | 07.09.2019 02:16:15 | 
+update_id: 10000
+	message_id: 1365
+	chat id: 290563423, first_name: Darya, last_name: Yakimova, type: private
+	from id: 290563423, is_bot: False, first_name: Darya, last_name: Yakimova, username: jadarya, language_code: 
+	date: 1441645532
+	text: LTCBTC
+
+INFO | 07.09.2019 02:19:48 | 
+update_id: 10000
+	message_id: 1365
+	chat id: 290563423, first_name: Darya, last_name: Yakimova, type: private
+	from id: 290563423, is_bot: False, first_name: Darya, last_name: Yakimova, username: jadarya, language_code: 
+	date: 1441645532
+	text: LTCBTC
+
+INFO | 07.09.2019 02:22:22 | 
+update_id: 10000
+	message_id: 1365
+	chat id: 290563423, first_name: Darya, last_name: Yakimova, type: private
+	from id: 290563423, is_bot: False, first_name: Darya, last_name: Yakimova, username: jadarya, language_code: 
+	date: 1441645532
+	text: LTCBTC
+
+INFO | 07.09.2019 02:34:42 | 
+Binance. Пара: BNBBTC
+	Изменение цены за последние 24 часа 0.00005190
+	Последняя цена: 0.00213740
+	Цена продажи: 0.00213780
+	Цена покупки: 0.00213710
+	Самая высокая цена: 0.00218120
+	Самая низкая цена:0.00207750
+	Объём: 1406412.87000000
+	Количество: 78832
+
+INFO | 07.09.2019 02:34:42 | 
+update_id: 10000
+	message_id: 1365
+	chat id: 290563423, first_name: Darya, last_name: Yakimova, type: private
+	from id: 290563423, is_bot: False, first_name: Darya, last_name: Yakimova, username: jadarya, language_code: 
+	date: 1441645532
+	text: BNBBTC
+
+INFO | 07.09.2019 02:35:33 | The remote server returned an error: (400) Bad Request.
+INFO | 07.09.2019 02:35:33 | 
+update_id: 10000
+	message_id: 1365
+	chat id: 290563423, first_name: Darya, last_name: Yakimova, type: private
+	from id: 290563423, is_bot: False, first_name: Darya, last_name: Yakimova, username: jadarya, language_code: 
+	date: 1441645532
+	text: BNBLTC

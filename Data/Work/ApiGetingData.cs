@@ -35,9 +35,9 @@ namespace CryptoTelegram.Data.Work
             string url,
             string proxy = null) 
         {
-            WebClient web = new WebClient();
+            WebClient web = new WebClient();            
+            _logger.LogInformation($"Using proxy {proxy}");
             web.Proxy = new WebProxy(proxy);
-
             var parameters = GetParameters(entity);
             
             _logger.LogInformation($"Was send url: {url} with count of parameters: {parameters.Count}");
