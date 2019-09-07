@@ -50,23 +50,18 @@ namespace CryptoTelegram.Controllers
             };
             switch (message.text.ToLower()) {
                 case "/start":
-                    messageForSend.text = "Наберите валютную пару или выберите из предложенных.";
-                    break;
-                case "/help":
-                    messageForSend.text = "Здесь будет описание возможностей";
-                    break;
-                case "/menu":
-                    messageForSend.text = "Проверка меню";
+                    messageForSend.text = "Наберите валютную пару Binance или " +
+                        "выберите из примерных предложенных.";
                     messageForSend.reply_markup = GetButtons(message.chat.id);
                     break;
-                case "/remove":
+                /* case "/remove":
                     messageForSend.text = "Удаление клавиатуры";
                     messageForSend.reply_markup = JsonConvert.SerializeObject(new TelegramRemoveButtons());
                     break;
                 case "/inline":
                     messageForSend.text = "inline menu";
                     messageForSend.reply_markup = GetInlineButtons(message.chat.id);
-                    break;
+                    break; */
                 default:
                     string symbol = message.text.ToUpper();
                     string url = Binance24hrUrl.Replace("pair", symbol);
@@ -83,32 +78,17 @@ namespace CryptoTelegram.Controllers
                         messageForSend.text = $"Пары на Binance {message.text} не существует";
                     }
                     break;
-                /*
-                  //string symbol = messageForCreationDto.message.text;            
-                string url = Binance24hrUrl.Replace("pair", symbol);
-                try {        
-                    var get24hrTicker = new ApiGetingData<_24hrTickerDto>(_logger);
-                    var ticker = await get24hrTicker.GetDataAsync(url);
-                    await LogInformation(ticker.ToString());
-                } catch(Exception ex) {
-                    await LogInformation(ex.Message);
-                } finally {
-                    await LogInformation(messageForCreationDto.ToString());
-                }
-                 */
             }
             return messageForSend;
         }
 
-            private string GetButtons(long chat_id)
+        private string GetButtons(long chat_id)
         {
-            List<string> keyboardButton1 = new List<string>() { "/start", "/help", "/remove" };
-            List<string> keyboradButton2 = new List<string>() { "Maybe" };
-            List<string> keyboradButton3 = new List<string>() { "1", "2", "3" };
+            List<string> keyboardButton1 = new List<string>() { "BNBUSDT", "BNBBTC", "BNBETH" };
+            List<string> keyboardButton2 = new List<string>() { "BTCUSDT", "ETHUSDT", "LTCUSDT" };
             List<List<string>> keyboard = new List<List<string>>() {
                 keyboardButton1,
-                keyboradButton2,
-                keyboradButton3
+                keyboardButton2
             };
             return JsonConvert.SerializeObject(new TelegramButtons(keyboard));
         }
