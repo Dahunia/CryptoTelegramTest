@@ -54,14 +54,6 @@ namespace CryptoTelegram.Controllers
                         "выберите из примерных предложенных.";
                     messageForSend.reply_markup = GetButtons(message.chat.id);
                     break;
-                /* case "/remove":
-                    messageForSend.text = "Удаление клавиатуры";
-                    messageForSend.reply_markup = JsonConvert.SerializeObject(new TelegramRemoveButtons());
-                    break;
-                case "/inline":
-                    messageForSend.text = "inline menu";
-                    messageForSend.reply_markup = GetInlineButtons(message.chat.id);
-                    break; */
                 default:
                     string symbol = message.text.ToUpper();
                     string url = Binance24hrUrl.Replace("pair", symbol);
@@ -75,7 +67,7 @@ namespace CryptoTelegram.Controllers
                     } catch(Exception ex) {
                         await LogInformation(ex.Message);
 
-                        messageForSend.text = $"Пары на Binance {message.text} не существует";
+                        messageForSend.text = $"Пары {message.text} на Binance  не существует";
                     }
                     break;
             }
@@ -90,7 +82,7 @@ namespace CryptoTelegram.Controllers
                 keyboardButton1,
                 keyboardButton2
             };
-            return JsonConvert.SerializeObject(new TelegramButtons(keyboard));
+            return JsonConvert.SerializeObject(new TelegramButtons(keyboard, true));
         }
         private string GetInlineButtons(long chat_id) {
             var key1 = new InlineKeyboardButton("url1_1", "ya.ru");
